@@ -38,6 +38,8 @@
 			this.btnDuyuruOlustur = new System.Windows.Forms.Button();
 			this.txtDuyuru = new System.Windows.Forms.TextBox();
 			this.groupBox3 = new System.Windows.Forms.GroupBox();
+			this.txtSikayet = new System.Windows.Forms.TextBox();
+			this.label9 = new System.Windows.Forms.Label();
 			this.btnRandevuOlustur = new System.Windows.Forms.Button();
 			this.btnRandevuListesi = new System.Windows.Forms.Button();
 			this.cbDurum = new System.Windows.Forms.CheckBox();
@@ -62,8 +64,6 @@
 			this.btnBransPaneli = new System.Windows.Forms.Button();
 			this.btnDoktorPaneli = new System.Windows.Forms.Button();
 			this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-			this.label9 = new System.Windows.Forms.Label();
-			this.txtSikayet = new System.Windows.Forms.TextBox();
 			this.groupBox2.SuspendLayout();
 			this.groupBox1.SuspendLayout();
 			this.groupBox3.SuspendLayout();
@@ -141,7 +141,7 @@
 			// 
 			// btnDuyuruListesi
 			// 
-			this.btnDuyuruListesi.Location = new System.Drawing.Point(106, 196);
+			this.btnDuyuruListesi.Location = new System.Drawing.Point(104, 196);
 			this.btnDuyuruListesi.Name = "btnDuyuruListesi";
 			this.btnDuyuruListesi.Size = new System.Drawing.Size(102, 33);
 			this.btnDuyuruListesi.TabIndex = 2;
@@ -194,6 +194,23 @@
 			this.groupBox3.TabIndex = 3;
 			this.groupBox3.TabStop = false;
 			this.groupBox3.Text = "Randevu Paneli";
+			// 
+			// txtSikayet
+			// 
+			this.txtSikayet.Location = new System.Drawing.Point(64, 200);
+			this.txtSikayet.Multiline = true;
+			this.txtSikayet.Name = "txtSikayet";
+			this.txtSikayet.Size = new System.Drawing.Size(121, 96);
+			this.txtSikayet.TabIndex = 10;
+			// 
+			// label9
+			// 
+			this.label9.AutoSize = true;
+			this.label9.Location = new System.Drawing.Point(6, 206);
+			this.label9.Name = "label9";
+			this.label9.Size = new System.Drawing.Size(53, 16);
+			this.label9.TabIndex = 9;
+			this.label9.Text = "Şikayet";
 			// 
 			// btnRandevuOlustur
 			// 
@@ -428,23 +445,6 @@
 			this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
 			this.dateTimePicker1.TabIndex = 7;
 			this.dateTimePicker1.Visible = false;
-			// 
-			// label9
-			// 
-			this.label9.AutoSize = true;
-			this.label9.Location = new System.Drawing.Point(6, 206);
-			this.label9.Name = "label9";
-			this.label9.Size = new System.Drawing.Size(53, 16);
-			this.label9.TabIndex = 9;
-			this.label9.Text = "Şikayet";
-			// 
-			// txtSikayet
-			// 
-			this.txtSikayet.Location = new System.Drawing.Point(64, 200);
-			this.txtSikayet.Multiline = true;
-			this.txtSikayet.Name = "txtSikayet";
-			this.txtSikayet.Size = new System.Drawing.Size(121, 96);
-			this.txtSikayet.TabIndex = 10;
 			// 
 			// frmSekreterDetay
 			// 

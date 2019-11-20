@@ -129,7 +129,7 @@
 			// btnGeriDon
 			// 
 			this.btnGeriDon.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-			this.btnGeriDon.Location = new System.Drawing.Point(10, 131);
+			this.btnGeriDon.Location = new System.Drawing.Point(11, 131);
 			this.btnGeriDon.Name = "btnGeriDon";
 			this.btnGeriDon.Size = new System.Drawing.Size(98, 40);
 			this.btnGeriDon.TabIndex = 5;

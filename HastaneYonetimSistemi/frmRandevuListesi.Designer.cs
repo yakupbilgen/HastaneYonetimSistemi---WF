@@ -39,7 +39,7 @@
 			this.dgvRandevuListesi.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.dgvRandevuListesi.Location = new System.Drawing.Point(0, 0);
 			this.dgvRandevuListesi.Name = "dgvRandevuListesi";
-			this.dgvRandevuListesi.Size = new System.Drawing.Size(779, 360);
+			this.dgvRandevuListesi.Size = new System.Drawing.Size(779, 319);
 			this.dgvRandevuListesi.TabIndex = 0;
 			this.dgvRandevuListesi.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvRandevuListesi_CellContentDoubleClick);
 			// 
@@ -47,7 +47,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(779, 360);
+			this.ClientSize = new System.Drawing.Size(779, 319);
 			this.Controls.Add(this.dgvRandevuListesi);
 			this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;

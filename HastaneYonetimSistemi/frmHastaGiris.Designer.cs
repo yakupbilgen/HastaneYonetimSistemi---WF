@@ -61,7 +61,7 @@
 			// 
 			this.linkYeniKayit.AutoSize = true;
 			this.linkYeniKayit.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-			this.linkYeniKayit.Location = new System.Drawing.Point(250, 34);
+			this.linkYeniKayit.Location = new System.Drawing.Point(250, 51);
 			this.linkYeniKayit.Name = "linkYeniKayit";
 			this.linkYeniKayit.Size = new System.Drawing.Size(67, 16);
 			this.linkYeniKayit.TabIndex = 3;
@@ -106,7 +106,7 @@
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.MenuHighlight;
-			this.ClientSize = new System.Drawing.Size(330, 131);
+			this.ClientSize = new System.Drawing.Size(325, 131);
 			this.Controls.Add(this.mskTC);
 			this.Controls.Add(this.txtSifre);
 			this.Controls.Add(this.label2);

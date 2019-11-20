@@ -39,14 +39,14 @@
 			this.dgvDuyurular.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.dgvDuyurular.Location = new System.Drawing.Point(0, 0);
 			this.dgvDuyurular.Name = "dgvDuyurular";
-			this.dgvDuyurular.Size = new System.Drawing.Size(604, 264);
+			this.dgvDuyurular.Size = new System.Drawing.Size(592, 256);
 			this.dgvDuyurular.TabIndex = 0;
 			// 
 			// frmDuyurular
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(604, 264);
+			this.ClientSize = new System.Drawing.Size(592, 256);
 			this.Controls.Add(this.dgvDuyurular);
 			this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;

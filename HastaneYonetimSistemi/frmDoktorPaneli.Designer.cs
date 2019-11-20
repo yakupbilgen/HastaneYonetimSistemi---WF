@@ -164,7 +164,7 @@
 			// 
 			this.dgvDoktorlar.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
 			this.dgvDoktorlar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-			this.dgvDoktorlar.Location = new System.Drawing.Point(208, 12);
+			this.dgvDoktorlar.Location = new System.Drawing.Point(200, 12);
 			this.dgvDoktorlar.Name = "dgvDoktorlar";
 			this.dgvDoktorlar.Size = new System.Drawing.Size(620, 219);
 			this.dgvDoktorlar.TabIndex = 14;
@@ -186,7 +186,7 @@
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.MenuHighlight;
-			this.ClientSize = new System.Drawing.Size(840, 241);
+			this.ClientSize = new System.Drawing.Size(832, 241);
 			this.Controls.Add(this.btnGeriDon);
 			this.Controls.Add(this.dgvDoktorlar);
 			this.Controls.Add(this.btnGuncelle);
